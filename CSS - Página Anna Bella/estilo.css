@@ -1,0 +1,49 @@
+body {
+    background: #d2d2c1 url('img/fundo.png');
+    background-repeat: repeat;
+}
+
+.cabecalho {
+    background: #c5c5b2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: rgb(120, 93, 182);
+    padding: 20px 10px;
+    width: 880px;
+}
+
+a {
+    color: #4b566a;
+    text-decoration: none;
+    padding: 15px;
+}
+
+.conteudo {
+    background-color: white;
+    width: 880px;
+    padding: 10px;
+}
+
+h3 {
+    margin: 0px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.direitos {
+    text-align: center;
+}
+
+.img {
+    border: 10px solid #c3c3ae;
+}
+
+.negrito {
+    font-weight: 900;
+}
