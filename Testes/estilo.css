@@ -1,0 +1,24 @@
+body {
+    background-image: url('img/fundo.png');
+}
+
+#capa {
+    border: 10px brown ridge;
+}
+
+#cabecalho {
+    border: 10px brown ridge;
+    width: 900px;
+    text-align: center;
+    background-color: brown;
+    font-size: 10px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.menu {
+    background-color: rgba(165, 42, 42, 0.74);
+    border-left: 10px;
+    border-left-style: ridge;
+    border-left-color: brown;
+}
